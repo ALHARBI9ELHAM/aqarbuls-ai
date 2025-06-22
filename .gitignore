@@ -1,0 +1,17 @@
+# Python files
+__pycache__/
+*.py[cod]
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Node.js
+node_modules/
+
+# Mac / Linux
+.DS_Store
+✨ إضافة ملف gitignore لتجاهل الملفات المؤقتة
